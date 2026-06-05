@@ -1,5 +1,5 @@
 // แสดงข้อความต้อนรับ
-window.addEventListener("load", () => {
+window.addEventListener("load", () => 
     console.log("ยินดีต้อนรับสู่เว็บไซต์ของฉัน");
 });
 
